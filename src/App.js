@@ -4,14 +4,14 @@ import { Helmet } from 'react-helmet';
 import LandingPage from './unAuth/LandingPage';
 import './App.css';
 import './firebase';
-
+//hey new comment added
 function App() {
   return (
     <div className="app-structure-container">
       <Helmet>
         <meta
           name="description"
-          content="TubeStamp is a free online tool that allows you to easily create timestamp links for YouTube videos. Share specific moments from videos with your friends and audience."
+          content="TubeStamp is a paid online tool that allows you to very easily create timestamp links for YouTube videos. Share specific moments from videos with your friends and audience."
         />
         <meta
           name="keywords"
