@@ -1,6 +1,6 @@
 # How to Create an Easy App with No Coding Experience 🚀
 
-In this series, we’ll go over creating real software with AI — and I’ll teach it as if you have zero coding experience.  
+In this series, we’ll go over creating real   
 > ❓ Did you download this code and run into errors? [Watch this troubleshooting video](https://youtu.be/ByRf8fsWE0Q)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -12,7 +12,7 @@ In this series, we’ll go over creating real software with AI — and I’ll te
 
 ## 📝 Lessons
 
-All lessons are available on YouTube. Click any title to watch:
+All lessons are available on YouTube. 
 > 👍 **Like & Subscribe:** It’s free! 🤠
 
 1. 🧱 **Tech Stack (10 min):** [Watch on YouTube](https://youtu.be/ZFtoJIQdmC4)  
